@@ -1,4 +1,4 @@
-# Personal Portfolio Website - Assignment 1
+# Personal Portfolio Website - Assignment 4
 
 ## Project Description
 A responsive personal portfolio website built with HTML, CSS, and JavaScript. This project serves as the foundation for a professional portfolio and demonstrates modern web development practices including responsive design, accessibility, and interactive features.
